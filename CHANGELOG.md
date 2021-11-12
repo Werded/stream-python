@@ -1,3 +1,8 @@
+## 6.0.0 - 2021-01-13
+
+* Add asynchronous code support
+* Change ``%s`` to f-strings
+
 ## 5.1.0 - 2021-04-16
 
 * Add analytics support for `track_engagements` and `track_impressions`
